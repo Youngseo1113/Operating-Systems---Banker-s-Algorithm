@@ -1,6 +1,6 @@
 # Operating-Systems---Banker-s-Algorithm# Banker's Algorithm - Safety Check
 
-This C program implements the Banker's Algorithm, specifically the Safety Algorithm, to determine if a given system state is safe or unsafe. If the system is safe, it outputs a possible safe sequence of process execution.
+This C program implements the Banker's Algorithm to determine if a given system state is safe or unsafe. If the system is safe, it outputs a possible safe sequence of process execution.
 
 ## System State Analyzed
 
